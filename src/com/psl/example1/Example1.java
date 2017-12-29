@@ -8,8 +8,12 @@ public class Example1 {
 	//this is change 2
 	//this is cahnge 3hhh
 	//ghggjgj
+<<<<<<< HEAD
 	//its a bug
 	//buggy
+=======
+	//its a bug1111
+>>>>>>> bug123
 	static String[] initProductNames()
 	{
 		String productName[]=new String[3];
