@@ -12,7 +12,9 @@ public class Example1 {
 	//its a bug
 	//buggy
 =======
+	//its a bug1111
 >>>>>>> bug123
+// cahnge 5
 	static String[] initProductNames()
 	{
 		String productName[]=new String[3];
