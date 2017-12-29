@@ -4,7 +4,6 @@ import java.io.DataInputStream;
 
 public class Example1 {
 	//my data
-	//hello
 	//this is change 2
 	//this is cahnge 3hhh
 	//ghggjgj
