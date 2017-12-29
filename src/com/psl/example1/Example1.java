@@ -3,6 +3,8 @@ package com.psl.example1;
 import java.io.DataInputStream;
 
 public class Example1 {
+	//my data
+	//this is change 2
 	static String[] initProductNames()
 	{
 		String productName[]=new String[3];
@@ -25,6 +27,7 @@ public class Example1 {
 	public static void main(String args[])
 	{
 		//example1 a=new example1();
+
 		String keyword;
 		DataInputStream d=new DataInputStream(System.in);
 		try{
