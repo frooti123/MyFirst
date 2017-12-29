@@ -5,8 +5,8 @@ import java.io.DataInputStream;
 public class Example1 {
 	//my data
 	//this is change 2
-	//this is cahnge 3hhh
-	//ghggjgj
+	//this is cahnge 3
+	//hdghgdh
 	static String[] initProductNames()
 	{
 		String productName[]=new String[3];
