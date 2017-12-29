@@ -15,6 +15,7 @@ public class Example1 {
 	//its a bug1111
 >>>>>>> bug123
 // cahnge 5
+	//change 6
 	static String[] initProductNames()
 	{
 		String productName[]=new String[3];
